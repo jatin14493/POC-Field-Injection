@@ -10,10 +10,12 @@ In this project we have explored Field Injections using the First option. The ex
 
 
 Steps to up and running :
-Build : mvn clean install
-Run : mvn spring-boot:run or just execute WebappExampleProcessApplication in Intellij/Eclipse
+   Build : mvn clean install
+   Run : mvn spring-boot:run or just execute WebappExampleProcessApplication in Intellij/Eclipse
 
-Credentials for Cockpit can be found in application.yaml file under the resources folder which can be used to login to the Camunda cockpit.
+Camunda Cockpit: 
+
+Credentials for Cockpit can be found in application.yaml file under the resources folder which can be used to login to the    Camunda cockpit.
 
 
 
